@@ -1,0 +1,12 @@
+email,name,role,author_id,password
+admin@bookleafpub.com,BookLeaf Ops Admin,Admin,,AdminPassword123!
+priya.sharma@email.com,Priya Sharma,Author,AUTH001,AuthorPassword123!
+rohit.kapoor@email.com,Rohit Kapoor,Author,AUTH002,AuthorPassword123!
+ananya.reddy@email.com,Ananya Reddy,Author,AUTH003,AuthorPassword123!
+vikram.joshi@email.com,Vikram Joshi,Author,AUTH004,AuthorPassword123!
+meera.nair@email.com,Meera Nair,Author,AUTH005,AuthorPassword123!
+arjun.malhotra@email.com,Arjun Malhotra,Author,AUTH006,AuthorPassword123!
+sneha.kulkarni@email.com,Sneha Kulkarni,Author,AUTH007,AuthorPassword123!
+farhan.sheikh@email.com,Farhan Sheikh,Author,AUTH008,AuthorPassword123!
+kavita.deshmukh@email.com,Kavita Deshmukh,Author,AUTH009,AuthorPassword123!
+diya.chatterjee@email.com,Diya Chatterjee,Author,AUTH010,AuthorPassword123!

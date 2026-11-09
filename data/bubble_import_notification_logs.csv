@@ -1,0 +1,2 @@
+log_id,author_id,author_name,recipient_email,trigger_type,triggered_at,status,email_subject,email_preview,completed_at,error_message
+LOG-INIT-001,AUTH001,Priya Sharma,priya.sharma@email.com,Manual Single,2026-01-16T10:00:00Z,Success,Your BookLeaf Royalty Statement & Upcoming Payout Summary,"Dear Priya Sharma, We are pleased to provide your quarterly royalty statement. Across your 2 titles...",2026-01-16T10:00:04Z,
