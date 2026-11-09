@@ -302,7 +302,7 @@ You can create either two separate pages (`author_portal` and `admin_portal`) or
 
 | Persona | Email | Password | Role | Description |
 |---|---|---|---|---|
-| **Operations Admin** | `admin@bookleafpub.com` | `AdminPassword123!` | Admin | Supervises all 10 authors, filters catalog, triggers n8n summaries |
+| **Operations Admin** | `nitinnitin29895@gmail.com` | `AdminPassword123!` | Admin | Supervises all 10 authors, filters catalog, triggers n8n summaries |
 | **Author 1 (Overdue)** | `priya.sharma@email.com` | `AuthorPassword123!` | Author | 2 books, pending ₹3,570, Red overdue badge |
 | **Author 2 (Mixed)** | `rohit.kapoor@email.com` | `AuthorPassword123!` | Author | 2 books, pending ₹13,024, Red and Yellow badges |
 | **Author 3 (In-Production)**| `sneha.kulkarni@email.com`| `AuthorPassword123!` | Author | 3 books (1 In-Production), pending ₹7,865 |

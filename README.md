@@ -2,6 +2,12 @@
 
 **Candidate Role:** Full Stack / Automation Developer  
 **Technology Stack:** Bubble.io (Application Frontend & Database) + n8n (Automation Workflow) + AI LLM API (OpenAI / Gemini / Anthropic)  
+
+**Live Deployment Links:**
+- 🌐 **Live Bubble App:** [https://my-app-261109-23277.bubbleapps.io/version-test](https://my-app-261109-23277.bubbleapps.io/version-test)
+- ⚙️ **n8n Cloud Workspace:** [https://nitinmor.app.n8n.cloud](https://nitinmor.app.n8n.cloud)
+- 🔗 **Production Webhook:** `https://nitinmor.app.n8n.cloud/webhook/bookleaf-royalty-summary`
+
 **Deliverables Included:**
 1. Bubble Database Schema, UI Specs, Privacy Rules, & CSV Import Suite (`data/`)
 2. Production-Ready n8n Workflow JSON Export (`n8n/bookleaf_royalty_notification_workflow.json`)
@@ -278,7 +284,7 @@ Building on Bubble.io with an engineering and code-first mindset presented both 
 
 | Persona | Email | Password | Role | Special Scenario Tested |
 |---|---|---|---|---|
-| **Operations Admin** | `admin@bookleafpub.com` | `AdminPassword123!` | Admin | Supervises all 10 authors, bulk triggers, inspects logs |
+| **Operations Admin** | `nitinnitin29895@gmail.com` | `AdminPassword123!` | Admin | Supervises all 10 authors, bulk triggers, inspects logs |
 | **Priya Sharma** | `priya.sharma@email.com` | `AuthorPassword123!` | Author | 2 books, pending ₹3,570, Red overdue badge |
 | **Rohit Kapoor** | `rohit.kapoor@email.com` | `AuthorPassword123!` | Author | 2 books, pending ₹13,024, Red & Yellow mixed badges |
 | **Sneha Kulkarni** | `sneha.kulkarni@email.com` | `AuthorPassword123!` | Author | 3 books (1 In-Production), pending ₹7,865 |
