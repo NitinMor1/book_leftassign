@@ -5,6 +5,7 @@
 
 **Live Deployment Links:**
 - 🌐 **Live Bubble App:** [https://my-app-261109-23277.bubbleapps.io/version-test](https://my-app-261109-23277.bubbleapps.io/version-test)
+- 🎥 **Video Walkthrough Recording:** [Google Drive Video Link](https://drive.google.com/file/d/1-ONBLRMLrbXzavTQqFJvgA3SphcWFm08/view?usp=sharing)
 - ⚙️ **n8n Cloud Workspace:** [https://nitinmor.app.n8n.cloud](https://nitinmor.app.n8n.cloud)
 - 🔗 **Production Webhook:** `https://nitinmor.app.n8n.cloud/webhook/bookleaf-royalty-summary`
 
